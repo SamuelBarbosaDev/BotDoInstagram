@@ -7,7 +7,7 @@
 <h3>Como Funciona:</h3>
     <p>
         Utilizando o html do instagram, e suas class, mapeio cada componente do site, 
-        assim automatizando meu <a href='https://www.instagram.com/samuelbarbosa_dev/'>instagram</a>.
+        assim automatizando minhas postagens no <a href='https://www.instagram.com/samuelbarbosa_dev/'>instagram</a>.
     </p>
 
 <h3> O que aprendi:</h3>
